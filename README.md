@@ -1,4 +1,4 @@
-# ![#] Hello, my name is Feryael Justice
+Hello, my name is Feryael Justice
 ### Android titled technician specialist
 
 I'm a professional software developer for more than three years.
