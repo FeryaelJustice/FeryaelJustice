@@ -21,16 +21,14 @@ And more...
 
 ## Find me at:
 
-[YouTube](https://youtube.com/mouredevapps)
-[Twitch](https://twitch.tv/mouredev)
+[YouTube](https://www.youtube.com/user/feraelify1)
+[Twitch](https://www.twitch.tv/feryaeljustice)
 </br>
-[Twitter](https://twitter.com/mouredev)
-[Instagram](https://instagram.com/mouredev)
-[Facebook](https://facebook.com/mouredev)
+[Twitter](https://twitter.com/FeryaelJusDJ)
+[Instagram](https://instagram.com/feryaeljustice)
+[Facebook](https://facebook.com/feryael99)
 </br>
-[LinkedIn](https://www.linkedin.com/in/braismoure)
-[Udemy](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
-[Web](https://mouredev.com)
+[LinkedIn](https://www.linkedin.com/in/feryael-justice)
 
 ## Contact me:
 
