@@ -21,7 +21,6 @@ I'm a professional software developer for more than three years. [![](https://im
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
 ##### And more...
-</br>
 
 #### Frameworks
 
@@ -35,14 +34,10 @@ I'm a professional software developer for more than three years. [![](https://im
 
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)](#)
 
-</br>
-
 #### Version Control
 
 [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#)
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)](#)
-
-</br>
 
 ## Find me at:
 
