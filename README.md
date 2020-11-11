@@ -1,7 +1,7 @@
 #Hello, my name is Feryael Justice
 ### Android titled technician specialist
 
-[(https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)]
+[![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](#)
 
 I'm a professional software developer for more than three years.
 
