@@ -23,6 +23,7 @@ I'm a professional software developer for more than three years.
 ##### And more...
 </br>
 #### Frameworks
+
 [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
@@ -34,13 +35,9 @@ I'm a professional software developer for more than three years.
 
 [YouTube](https://www.youtube.com/user/feraelify1)
 [Twitch](https://www.twitch.tv/feryaeljustice)
-
 [Twitter](https://twitter.com/FeryaelJusDJ)
-
 [Instagram](https://instagram.com/feryaeljustice)
-
 [Facebook](https://facebook.com/feryael99)
-
 [LinkedIn](https://www.linkedin.com/in/feryael-justice)
 
 ## Contact me:
