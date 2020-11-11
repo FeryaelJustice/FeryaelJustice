@@ -32,17 +32,20 @@ I'm a professional software developer for more than three years. [![](https://im
 [![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
 
 </br>
+
 #### Design
 
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)](#)
 
 </br>
+
 #### Version Control
 
 [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#)
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)](#)
 
 </br>
+
 ## Find me at:
 
 [![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/user/feraelify1)
