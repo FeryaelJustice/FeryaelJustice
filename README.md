@@ -26,7 +26,7 @@ I'm a professional software developer for more than three years.
 #### Frameworks
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
-[![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white&labelColor=101010)](#)
+[![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
 
 </br>
 
