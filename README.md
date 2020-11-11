@@ -46,7 +46,7 @@ I'm a professional software developer for more than three years. [![](https://im
 </br>
 ## Find me at:
 
-[YouTube](https://www.youtube.com/user/feraelify1)
+[<img src="https://img.shields.io/badge/<handle>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/user/feraelify1)
 [Twitch](https://www.twitch.tv/feryaeljustice)
 [Twitter](https://twitter.com/FeryaelJusDJ)
 [Instagram](https://instagram.com/feryaeljustice)
