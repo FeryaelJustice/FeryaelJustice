@@ -1,7 +1,7 @@
 # Hello, my name is Feryael Justice
 
 ### Multiplatform Apps Developer [![](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
-## Android Specialist
+Android Specialist
 
 I'm a professional software developer for more than three years. [![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](#)
 
