@@ -25,7 +25,6 @@ I'm a professional software developer for more than three years. [![](https://im
 </br>
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
-##### And more...
 
 #### Frameworks
 
@@ -41,6 +40,8 @@ I'm a professional software developer for more than three years. [![](https://im
 
 [![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010))](#)
 
+[![Expo](https://img.shields.io/badge/expo%20-%2320232a.svg?&style=for-the-badge&logo=expo&logoColor=%2361DAFB&labelColor=101010))](#)
+
 #### Design
 
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)](#)
@@ -52,6 +53,7 @@ I'm a professional software developer for more than three years. [![](https://im
 
 ## Find me at:
 
+[![Website (with Portfolio)](https://img.shields.io/badge/web%20-%23FF0000.svg?&style=for-the-badge&logo=Web&logoColor=white)](https://feryael-justice.jimdosite.com/)
 [![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/user/feraelify1)
 [![Twitch](https://img.shields.io/badge/twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/feryaeljustice)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FeryaelJusDJ)
