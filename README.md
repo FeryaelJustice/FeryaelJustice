@@ -29,19 +29,19 @@ I'm a professional software developer for more than three years. [![](https://im
 
 #### Frameworks
 
-[![Ionic](https://img.shields.io/badge/ionic%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
-
 [![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
-
-[![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
 
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
 
 [![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010))](#)
 
 [![Expo](https://img.shields.io/badge/expo%20-%2320232a.svg?&style=for-the-badge&logo=expo&logoColor=%2361DAFB&labelColor=101010))](#)
+
+[![Ionic](https://img.shields.io/badge/ionic%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
+
+[![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
 
 #### Multimedia and Design
 
