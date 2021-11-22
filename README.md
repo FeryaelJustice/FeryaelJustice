@@ -2,7 +2,8 @@
 
 <h1 align="center">⭐Hello, I am Feryael Justice⭐</h1>
 
-<h2>(Android Specialist)</h2>
+<h2 align="center">(Android Specialist)</h2>
+
 [![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
 
 <h3 align="center">A passionate Multiplatform Apps Developer from Spain</h3>
