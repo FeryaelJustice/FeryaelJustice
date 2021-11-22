@@ -12,7 +12,7 @@
 
 ## Contact me:
 
-[Email](mailto:nano9gs@hotmail.es)
+[![Email](https://img.shields.io/badge/mail-3DDC84?style=for-the-badge&logo=mail&logoColor=white&labelColor=101010)(mailto:nano9gs@hotmail.es)
 
 <h3 align="left">Also you can connect with me at:</h3>
 <p align="left">
