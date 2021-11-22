@@ -7,11 +7,20 @@
 
 - 📫 How to reach me **nano9gs@hotmai.es** or **fgonzalezserrano10@gmail.com**
 
+## Contact me:
+
+[Email](mailto:nano9gs@hotmail.es)
+
 ## Skills:
+
 #### Programming Languages
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)
+
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](#)
+
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)](#)
+
 </br>
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](#)
@@ -66,10 +75,6 @@
 [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/feryaeljustice)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/feryael99)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feryael-justice)
-
-## Contact me:
-
-[Email](mailto:nano9gs@hotmail.es)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeryaelJustice)](https://github.com/anuraghazra/github-readme-stats)
 
