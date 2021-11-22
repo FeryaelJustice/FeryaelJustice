@@ -13,8 +13,7 @@
 
 <h3 align="left">Also you can connect with me at:</h3>
 <p align="left">
-<a href="https://twitter.com/feryaeljusdj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="feryaeljustice_twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/feryael-justice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feryaeljustice_linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/feryael-justice/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feryaeljustice_linkedin" height="30" width="40" /></a>
 </p>
 
 ## Skills:
