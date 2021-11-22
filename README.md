@@ -68,3 +68,5 @@ I'm a professional software developer for more than three years. | [![](https://
 ## Contact me:
 
 [Email](mailto:nano9gs@hotmail.es)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeryaelJustice)](https://github.com/anuraghazra/github-readme-stats)
