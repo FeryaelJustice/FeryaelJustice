@@ -1,6 +1,9 @@
 # Feryael Justice
 
-<h1 align="center">⭐Hello, I am Feryael Justice⭐ (Android Specialist) | [![](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](#)</h1>
+<h1 align="center">⭐Hello, I am Feryael Justice⭐</h1>
+
+<h2>(Android Specialist)</h2>
+[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
 
 <h3 align="center">A passionate Multiplatform Apps Developer from Spain</h3>
 
