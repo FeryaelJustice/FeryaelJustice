@@ -4,13 +4,11 @@
 
 <h2 align="center">(Android Specialist)</h2>
 
-[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
-
 <h3 align="center">A passionate Multiplatform Apps Developer from Spain</h3>
 
-- I'm a professional software developer for more than three years. | [![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](#)
-
+- I'm a professional software developer for more than three years.
 - 📫 How to reach me **nano9gs@hotmai.es** or **fgonzalezserrano10@gmail.com**
+- [![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](#)
 
 ## Contact me:
 
