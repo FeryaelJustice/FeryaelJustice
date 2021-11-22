@@ -3,7 +3,9 @@
 ### Multiplatform Apps Developer
 (Android Specialist) | [![](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
 
-I'm a professional software developer for more than three years. | [![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](#)
+- I'm a professional software developer for more than three years. | [![](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](#)
+
+- 📫 How to reach me **nano9gs@hotmai.es** or **fgonzalezserrano10@gmail.com**
 
 ## Skills:
 #### Programming Languages
@@ -68,5 +70,7 @@ I'm a professional software developer for more than three years. | [![](https://
 ## Contact me:
 
 [Email](mailto:nano9gs@hotmail.es)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeryaelJustice)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeryaelJustice)](https://github.com/anuraghazra/github-readme-stats)
