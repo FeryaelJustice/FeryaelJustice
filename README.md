@@ -8,7 +8,7 @@
 
 - I'm a professional software developer for more than three years.
 - 📫 How to reach me **nano9gs@hotmai.es** or **fgonzalezserrano10@gmail.com**
-- [![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](#)
+- [![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](#) Windows as working operating system and great passionate about it.
 
 ## Contact me:
 
