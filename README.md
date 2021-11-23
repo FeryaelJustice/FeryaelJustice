@@ -12,7 +12,8 @@
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/mail-3DDC84?style=for-the-badge&logo=mail&logoColor=white&labelColor=101010)(mailto:nano9gs@hotmail.es)
+[![Mail](https://img.shields.io/badge/mail-3DDC84?style=for-the-badge&logo=mail&logoColor=white&labelColor=101010)](mailto:nano9gs@hotmail.es)
+[![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/feryael-justice/)
 
 <h3 align="left">Also you can connect with me at:</h3>
 <p align="left">
