@@ -12,13 +12,9 @@
 
 ## Contact me:
 
-[![Mail](https://img.shields.io/badge/mail-3DDC84?style=for-the-badge&logo=mail&logoColor=white&labelColor=101010)](mailto:nano9gs@hotmail.es)
-[![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/feryael-justice/)
+[![Mail](https://img.shields.io/badge/mail-3DDC84?style=for-the-badge&logo=mail&logoColor=white&labelColor=101010)](mailto:nano9gs@hotmail.es) / 
 
-<h3 align="left">Also you can connect with me at:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/feryael-justice/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feryaeljustice_linkedin" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/feryael-justice/)
 
 ## Skills:
 
