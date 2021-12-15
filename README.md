@@ -61,8 +61,8 @@
 
 #### DJ and Producer
 
-[![FL Studio](./src/assets/img/Logo_Fl_Studio.png)](#)
-[![VirtualDJ](./src/assets/img/Logo_VirtualDJ.png)](#)
+[![FL Studio](./img/Logo_Fl_Studio.png)](#)
+[![VirtualDJ](./img/Logo_VirtualDJ.png)](#)
 ## Find me at:
 
 [Website (with Portfolio)](https://feryael-justice.jimdosite.com/) / [Linktr.ee](https://linktr.ee/feryaeljustice) / [AllMyLinks](https://allmylinks.com/two-factor-auth)
@@ -77,5 +77,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeryaelJustice)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeryaelJustice)](https://github.com/anuraghazra/github-readme-stats)
-
-- Made with Ionic & Angular by Feryael Justice with <3.
