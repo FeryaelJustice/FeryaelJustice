@@ -80,4 +80,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeryaelJustice)](https://github.com/anuraghazra/github-readme-stats)
 
-- Made with Ionic & Angular by Feryael Justice.
+- Made with Ionic & Angular by Feryael Justice with <3.
