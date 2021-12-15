@@ -61,6 +61,10 @@
 [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#)
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)](#)
 
+#### DJ and Producer
+
+[![FL Studio](./img/Logo_Fl_Studio.png)](#)
+[![VirtualDJ](./img/Logo_VirtualDJ.png)](#)
 ## Find me at:
 
 [Website (with Portfolio)](https://feryael-justice.jimdosite.com/) / [Linktr.ee](https://linktr.ee/feryaeljustice) / [AllMyLinks](https://allmylinks.com/two-factor-auth)
