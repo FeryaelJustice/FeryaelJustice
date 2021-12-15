@@ -1,5 +1,3 @@
-# Feryael Justice
-
 <h1 align="center">⭐Hello, I am Feryael Justice⭐</h1>
 
 <h2 align="center">(Android Specialist)</h2>
