@@ -63,8 +63,8 @@
 
 #### DJ and Producer
 
-[![FL Studio](./img/Logo_Fl_Studio.png)](#)
-[![VirtualDJ](./img/Logo_VirtualDJ.png)](#)
+[![FL Studio](./src/assets/img/Logo_Fl_Studio.png)](#)
+[![VirtualDJ](./src/assets/img/Logo_VirtualDJ.png)](#)
 ## Find me at:
 
 [Website (with Portfolio)](https://feryael-justice.jimdosite.com/) / [Linktr.ee](https://linktr.ee/feryaeljustice) / [AllMyLinks](https://allmylinks.com/two-factor-auth)
