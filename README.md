@@ -78,4 +78,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeryaelJustice)](https://github.com/anuraghazra/github-readme-stats)
 
-<script src="https://tryhackme.com/badge/692401"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/FeryaelJustice.png" alt="TryHackMe">
