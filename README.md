@@ -16,7 +16,8 @@
 ## Experience:
 
 ![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
-[![Tec-Soft](https://tec-soft.es/)]
+** May 2022 - Currently **
+[Tec-Soft](https://tec-soft.es/)
 
 ## Skills:
 
