@@ -1,6 +1,6 @@
 <h1 align="center">⭐Hello, I am Feryael Justice⭐</h1>
 
-<h2 align="center">(Android Specialist)</h2>
+<h2 align="center">(Android Developer)</h2>
 
 <h3 align="center">A passionate Multiplatform Apps Developer and Cibersecurity Specialist from Spain</h3>
 
@@ -12,6 +12,11 @@
 
 [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:nano9gs@hotmail.es) / 
 [![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/feryael-justice/)
+
+## Experience:
+
+![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
+[![Tec-Soft](https://tec-soft.es/)]
 
 ## Skills:
 
