@@ -16,8 +16,9 @@
 ## Experience:
 
 ![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
-**May 2022 - Currently**
-[Tec-Soft](https://tec-soft.es/)
+**May 2022 - Currently** <br/>
+[Tec-Soft](https://tec-soft.es/) <br/>
+Software development in Delphi.
 
 ## Skills:
 
