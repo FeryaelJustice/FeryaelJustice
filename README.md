@@ -2,7 +2,7 @@
 
 <h2 align="center">(Android Developer)</h2>
 
-<h3 align="center">A passionate Multiplatform Apps Developer and Cibersecurity Specialist from Spain</h3>
+<h3 align="center">A passionate Mobile & Web Developer and Cibersecurity Specialist from Spain</h3>
 
 - I'm a professional software developer for more than three years.
 - 📫 How to reach me: **nano9gs@hotmail.es** or **fgonzalezserrano10@gmail.com**
