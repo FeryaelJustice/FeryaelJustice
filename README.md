@@ -76,11 +76,11 @@ Software development in Delphi.
 [![VirtualDJ](./img/Logo_VirtualDJ.png)](#)
 ## Find me at:
 
-[Website (with Portfolio)](https://feryael-justice.jimdosite.com/) / [Linktr.ee](https://linktr.ee/feryaeljustice) / [AllMyLinks](https://allmylinks.com/two-factor-auth)
+[Website (portfolio)](https://feryael-justice.jimdosite.com/portfolio) / [Linktr.ee](https://linktr.ee/feryaeljustice)
 
-[![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/user/feraelify1)
+[![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTyU8XX48ICGslCl_6q9PwA)
 [![Twitch](https://img.shields.io/badge/twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/feryaeljustice)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FeryaelJusDJ)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FeryaelJustice)
 [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/feryaeljustice)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/feryael99)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feryael-justice)
