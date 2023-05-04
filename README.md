@@ -85,8 +85,12 @@ Software development in Delphi.
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/feryael99)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feryael-justice)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeryaelJustice)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeryaelJustice)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FeryaelJustice&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FeryaelJustice&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/FeryaelJustice.png" alt="TryHackMe">
