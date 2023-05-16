@@ -25,7 +25,7 @@
 <br/>
 **May 2022 - July 2022** 
 <br/>
-Software development in Delphi.
+Business desktop software development in Delphi Seattle, where I did teamwork and mantain the main products of the business solving issues in real time.
 
 ## Skills:
 
