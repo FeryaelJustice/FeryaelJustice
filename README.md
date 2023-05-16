@@ -9,8 +9,8 @@
 
 - I'm a professional Android / Web developer for several years, including ethical hacking & linux knowledge.
 - 📫 How to reach me: **nano9gs@hotmail.es** or **fgonzalezserrano10@gmail.com**
-- [GeneralPortfolio](https://feryael-justice.jimdosite.com/portfolio/)(#)
-- [DJ Portfolio](https://feryael-justice.jimdosite.com/portfolio/)(#)
+- [General Portfolio](https://feryael-justice.jimdosite.com/portfolio/)
+- [DJ Portfolio](https://feryael-justice.jimdosite.com/portfolio/)
 
 ## Contact me:
 
