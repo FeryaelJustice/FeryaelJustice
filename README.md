@@ -76,8 +76,10 @@ Business desktop software development in Delphi Seattle, where I did teamwork an
 
 #### DJ and Producer
 
-<img src="./img/Logo_Fl_Studio.png" alt= "/Logo_Fl_Studio" width="100" height="100">
-<img src="./img/Logo_VirtualDJ.png" alt= "/Logo_VirtualDJ" width="100" height="100">
+<section style="display:flex; flex-direction:row;">
+  <img src="./img/Logo_Fl_Studio.png" alt= "/Logo_Fl_Studio" width="100" height="100">
+  <img src="./img/Logo_VirtualDJ.png" alt= "/Logo_VirtualDJ" width="100" height="100">
+</section>
 ## Find me at:
 
 [Website (portfolio)](https://feryael-justice.jimdosite.com/portfolio) / [Linktr.ee](https://linktr.ee/feryaeljustice)
