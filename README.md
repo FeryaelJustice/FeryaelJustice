@@ -3,10 +3,14 @@
 <h2 align="center">(Android Developer)</h2>
 
 <h3 align="center">A passionate Mobile & Web Developer and Cibersecurity Specialist from Spain</h3>
+<h4 align="center">Besides, I'm a DJ as a hobbie and as my biggest dream</h3>
 
-- I'm a professional software developer for more than three years.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
+
+- I'm a professional Android / Web developer for several years, including ethical hacking & linux knowledge.
 - 📫 How to reach me: **nano9gs@hotmail.es** or **fgonzalezserrano10@gmail.com**
-- [![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](#) Windows as working operating system and great passionate about it.
+- [GeneralPortfolio](https://feryael-justice.jimdosite.com/portfolio/)(#)
+- [DJ Portfolio](https://feryael-justice.jimdosite.com/portfolio/)(#)
 
 ## Contact me:
 
