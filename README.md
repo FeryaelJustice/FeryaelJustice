@@ -82,9 +82,10 @@ Business desktop software development in Delphi Seattle, where I did teamwork an
   <img src="./img/Logo_Fl_Studio.png" alt= "/Logo_Fl_Studio" width="100" height="100">
   <img src="./img/Logo_VirtualDJ.png" alt= "/Logo_VirtualDJ" width="100" height="100">
 </section>
-## Find me at:
 
-[Website (portfolio)](https://feryael-justice.jimdosite.com/portfolio) / [Linktr.ee](https://linktr.ee/feryaeljustice)
+## Find all my links at:
+
+[Linktr.ee](https://linktr.ee/feryaeljustice)
 
 [![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTyU8XX48ICGslCl_6q9PwA)
 [![Twitch](https://img.shields.io/badge/twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/feryaeljustice)
