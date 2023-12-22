@@ -18,6 +18,12 @@
 
 ## Experience:
 
+[Homerti]([https://tec-soft.es/](https://www.homerti.com/es)) 
+<br/>
+**September 2023 - December 2023** 
+<br/>
+Professional training internship contract where I did web maintenance tasks with Laravel and Vue to a main product
+
 ![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
 <br/>
 [Tec-Soft](https://tec-soft.es/) 
