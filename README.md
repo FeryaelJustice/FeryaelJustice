@@ -18,7 +18,8 @@
 
 ## Experience:
 
-[Homerti]([https://tec-soft.es/](https://www.homerti.com/es)) 
+![Homerti](https://www.homerti.com/svg/logo.svg)
+[Homerti](https://tec-soft.es/](https://www.homerti.com/es) 
 <br/>
 **September 2023 - December 2023** 
 <br/>
