@@ -107,7 +107,9 @@ Business desktop software development in Delphi Seattle, where I did teamwork an
 
 <p align="center">
 <a href="https://github.com/FeryaelJustice">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feryaeljustice&show_icons=true)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feryaeljustice)](#)
+
 </a>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/FeryaelJustice.png" alt="TryHackMe">
