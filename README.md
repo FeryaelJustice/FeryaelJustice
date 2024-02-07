@@ -1,6 +1,6 @@
 <h1 align="center">⭐Hello, I am Feryael Justice⭐</h1>
 <h2 align="center">A passionate Android & Web Developer from Spain</h3>
-<h4 align="center">Besides, I'm a DJ as a hobbie and as my biggest dream</h3>
+<h4 align="center">Besides, I'm a DJ as a hobby and as my biggest dream</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
 
