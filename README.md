@@ -6,10 +6,13 @@
 
 - I'm a professional Android / Web developer for several years, including ethical hacking & linux knowledge.
 - 📫 How to reach me: **nano9gs@hotmail.es** or **fgonzalezserrano10@gmail.com**
+
+## CV
+- Watch my CV [here](./doc/FernandoGonzalezSerrano_Curriculum_English.pdf)
+
+## Portfolio
 - [General Portfolio](https://feryael-justice.jimdosite.com/portfolio/)
 - [DJ Portfolio](https://feryaeljustice.github.io/feryael-justice-dj-portfolio/)
-- [Notion General Portfolio (spanish)](https://feryaeljustice.notion.site/Porfolio-de-desarrollador-b3c80a7dfe884895a534a3fc6807f681)
-- [Notion DJ Portfolio (spanish)](https://feryaeljustice.notion.site/Porfolio-de-DJ-9dedae8a5e254e509e8c6744fa7a047d)
 
 ## Contact me:
 
