@@ -1,20 +1,24 @@
-<h1 align="center">⭐Hello, I am Feryael Justice⭐</h1>
-<h2 align="center">A passionate Android & Web Developer from Spain</h3>
-<h4 align="center">Besides, I'm a DJ as a hobby and as my biggest dream</h3>
+# ⭐Hello, I am Feryael Justice⭐
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" /> </p>
+## A passionate Android & Web Developer from Spain
+
+### Besides, I'm a DJ as a hobby and as my biggest dream</h3>
+
+<img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" />
 
 - I'm a professional Android / Web developer for several years, including ethical hacking & linux knowledge.
 - 📫 How to reach me: **nano9gs@hotmail.es** or **fgonzalezserrano10@gmail.com**
 
 ## CV
+
 - Watch my CV [here](./doc/FernandoGonzalezSerrano_Curriculum_English.pdf)
 
 ## Portfolio
+
 - [General Portfolio](https://feryael-justice.jimdosite.com/portfolio/)
 - [DJ Portfolio](https://feryaeljustice.github.io/feryael-justice-dj-portfolio/)
 
-## Contact me:
+## Contact me
 
 - [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:nano9gs@hotmail.es)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/feryael-justice/)
@@ -23,23 +27,31 @@
 
 ![Homerti](https://www.homerti.com/svg/logo.svg)
 <br/>
-[Homerti](https://www.homerti.com/es) 
+[Homerti](https://www.homerti.com/es)
 <br/>
-**September 2023 - December 2023** 
+**February 2024 - December 2024**
+<br/>
+Fullstack web developer. Technologies: Laravel & Vue, with Laravel Mix, Webpack, Vite, InertiaJS, Git and Gitkraken. Development of main products of the business, create new pages of intranets and production features, working with git branches in repositiories and in team in a office.
+
+![Homerti](https://www.homerti.com/svg/logo.svg)
+<br/>
+[Homerti](https://www.homerti.com/es)
+<br/>
+**September 2023 - December 2023**
 <br/>
 Professional training internship contract where I did web maintenance tasks with Laravel and Vue to a main product
 
 ![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
 <br/>
-[Tec-Soft](https://tec-soft.es/) 
+[Tec-Soft](https://tec-soft.es/)
 <br/>
-**May 2022 - July 2022** 
+**May 2022 - July 2022**
 <br/>
 Business desktop software development in Delphi Seattle, where I did teamwork and mantain the main products of the business solving issues in real time.
 
-## Skills:
+## Skills
 
-#### Programming Languages
+### Programming Languages
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](#)
@@ -95,7 +107,7 @@ Business desktop software development in Delphi Seattle, where I did teamwork an
   <img src="./img/Logo_VirtualDJ.png" alt= "/Logo_VirtualDJ" width="100" height="100">
 </section>
 
-## Find all my links at:
+## Find all my links at
 
 [Linktr.ee](https://linktr.ee/feryaeljustice)
 
@@ -108,9 +120,8 @@ Business desktop software development in Delphi Seattle, where I did teamwork an
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
 <a href="https://github.com/FeryaelJustice">
-  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feryaeljustice)](#)
 
 </a>
