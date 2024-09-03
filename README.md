@@ -15,13 +15,13 @@
 
 ## Portfolio
 
+- [Portfolio](https://feryaeljustice.dev)
 - [General Portfolio](https://feryael-justice.jimdosite.com/portfolio/)
 - [DJ Portfolio](https://feryaeljustice.github.io/feryael-justice-dj-portfolio/)
 
 ## Contact me
 
-- [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:nano9gs@hotmail.es)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/feryael-justice/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/feryael-justice/)
 
 ## Experience:
 
@@ -29,7 +29,7 @@
 <br/>
 [Homerti](https://www.homerti.com/es)
 <br/>
-**February 2024 - December 2024**
+**February 2024 - August 2024**
 <br/>
 Fullstack web developer. Technologies: Laravel & Vue, with Laravel Mix, Webpack, Vite, InertiaJS, Git and Gitkraken. Development of main products of the business, create new pages of intranets and production features, working with git branches in repositiories and in team in a office.
 
