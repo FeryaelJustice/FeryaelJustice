@@ -16,7 +16,6 @@
 ## Portfolio
 
 - [Portfolio](https://feryaeljustice.dev)
-- [General Portfolio](https://feryael-justice.jimdosite.com/portfolio/)
 - [DJ Portfolio](https://feryaeljustice.github.io/feryael-justice-dj-portfolio/)
 
 ## Contact me
