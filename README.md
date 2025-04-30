@@ -11,7 +11,7 @@
 
 ## CV
 
-- Watch my CV [here](./doc/FernandoGonzalezSerrano_Curriculum_English.pdf)
+- Watch my CV [here](./doc/cv.pdf)
 
 ## Portfolio
 
