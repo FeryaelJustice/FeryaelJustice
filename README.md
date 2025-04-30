@@ -26,7 +26,7 @@
 
 ![Exis TI](https://www.exis-ti.com/themes/custom/rhythm_sub/logotipo.png)
 <br/>
-[Exis TI](https://www.exis-ti.com/)
+[Exis TI](https://www.exis-ti.com/) (Android Developer)
 <br/>
 **December 2024 - Current**
 <br/>
@@ -35,7 +35,7 @@ Computer consultant focused on Android programming.
 
 ![Homerti](https://www.homerti.com/svg/logo.svg)
 <br/>
-[Homerti](https://www.homerti.com/es)
+[Homerti](https://www.homerti.com/es) (Web Developer)
 <br/>
 **February 2024 - August 2024**
 <br/>
@@ -51,7 +51,7 @@ Professional training internship contract where I did web maintenance tasks with
 
 ![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
 <br/>
-[Tec-Soft](https://tec-soft.es/)
+[Tec-Soft](https://tec-soft.es/) (Software Developer)
 <br/>
 **May 2022 - July 2022**
 <br/>
