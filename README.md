@@ -24,6 +24,15 @@
 
 ## Experience:
 
+![Exis TI](https://www.exis-ti.com/themes/custom/rhythm_sub/logotipo.png)
+<br/>
+[Exis TI](https://www.exis-ti.com/)
+<br/>
+**December 2024 - Current**
+<br/>
+Computer consultant focused on Android programming.
+- I worked as an Android Developer within the team of NTTDATA, coordinating with QA/UAT, Design, and other teams at the large company on the channel transformation project for the new *Mediolanum Bank* app.
+
 ![Homerti](https://www.homerti.com/svg/logo.svg)
 <br/>
 [Homerti](https://www.homerti.com/es)
