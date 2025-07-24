@@ -28,7 +28,7 @@
 <br/>
 [Exis TI](https://www.exis-ti.com/) (Android Developer)
 <br/>
-**December 2024 - Current**
+**December 2024 - June 2025**
 <br/>
 Computer consultant focused on Android programming.
 - I worked as an Android Developer within the team of NTTDATA, coordinating with QA/UAT, Design, and other teams at the large company on the channel transformation project for the new *Mediolanum Bank* app.
