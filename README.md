@@ -40,14 +40,7 @@ Computer consultant focused on Android programming.
 **February 2024 - August 2024**
 <br/>
 Fullstack web developer. Technologies: Laravel & Vue, with Laravel Mix, Webpack, Vite, InertiaJS, Git and Gitkraken. Development of main products of the business, create new pages of intranets and production features, working with git branches in repositiories and in team in a office.
-
-![Homerti](https://www.homerti.com/svg/logo.svg)
-<br/>
-[Homerti](https://www.homerti.com/es)
-<br/>
-**September 2023 - December 2023**
-<br/>
-Professional training internship contract where I did web maintenance tasks with Laravel and Vue to a main product
+September 2023 - December 2023 -> Professional training internship contract where I did web maintenance tasks with Laravel and Vue to a main product
 
 ![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
 <br/>
