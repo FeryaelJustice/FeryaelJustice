@@ -11,7 +11,7 @@
 
 ## CV
 
-- Watch my CV [here](./doc/cv.pdf)
+- Watch my CV [here](./doc/CV_Fernando_Gonzalez_Serrano_en.pdf)
 
 ## Portfolio
 
