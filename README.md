@@ -1,12 +1,12 @@
 # ⭐Hello, I am Feryael Justice⭐
 
-## A passionate Android & Web Developer from Spain
+## A passionate Mobile & Web Developer from Spain
 
 ### Besides, I'm a DJ as a hobby and as my biggest dream</h3>
 
 <img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" />
 
-- I'm a professional Android / Web developer for several years, including ethical hacking & linux knowledge.
+- I'm a professional Mobile (Android specialized, iOS ready) / Web developer for several years, including ethical hacking & linux knowledge.
 - 📫 How to reach me: **nano9gs@hotmail.es** or **fgonzalezserrano10@gmail.com**
 
 ## CV
@@ -57,6 +57,8 @@ Business desktop software development in Delphi Seattle, where I did teamwork an
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](#)
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)](#)
+[![iOS](https://img.shields.io/badge/iOS-3DDC84?style=for-the-badge&logo=ios&logoColor=white&labelColor=101010)](#)
+[![Swift](https://img.shields.io/badge/Swift-3DDC84?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)](#)
 </br>
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](#)
@@ -114,9 +116,9 @@ Business desktop software development in Delphi Seattle, where I did teamwork an
 
 [![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTyU8XX48ICGslCl_6q9PwA)
 [![Twitch](https://img.shields.io/badge/twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/feryaeljustice)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FeryaelJustice)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FeryaelJustice)
 [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/feryaeljustice)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/feryael99)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/FeryaelJusticeDJ)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feryael-justice)
 
 ### ⚙️ &nbsp;GitHub Analytics
