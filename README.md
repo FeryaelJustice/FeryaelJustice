@@ -45,7 +45,7 @@ I am always interested in building meaningful products, collaborating with solid
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feryael-justice/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://feryaeljustice.dev)
 [![DJ%20Portfolio](https://img.shields.io/badge/DJ%20Portfolio-EA4C89?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://feryaeljustice.github.io/feryael-justice-dj-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeryaelJustice)
+[![Instagram](https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=pink)](https://instagram.com/feryaeljustice)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FeryaelJustice)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTyU8XX48ICGslCl_6q9PwA)
 
@@ -70,6 +70,7 @@ I am always interested in building meaningful products, collaborating with solid
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-0F172A?style=for-the-badge&logo=android&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Retrofit](https://img.shields.io/badge/Retrofit-2C3E50?style=for-the-badge&logo=square&logoColor=white)
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
