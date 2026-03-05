@@ -1,132 +1,122 @@
-# ⭐Hello, I am Feryael Justice⭐
+# <div align="center">Hello, I am Feryael Justice</div>
 
-## A passionate Mobile & Web Developer from Spain
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FeryaelJustice&label=Profile%20views&color=0e75b6&style=flat" alt="FeryaelJustice profile views" />
+</div>
 
-### Besides, I'm a DJ as a hobby and as my biggest dream</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&center=true&vCenter=true&width=900&lines=Android+Developer+focused+on+modern%2C+secure+and+scalable+apps;Frontend-focused+Fullstack+Web+Developer;AI+%26+Cybersecurity+specialization+in+progress+and+completed" alt="Typing SVG" />
+  </a>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=feryaeljustice&label=Profile%20views&color=0e75b6&style=flat" alt="feryaeljustice_profileviews" />
+<div align="center">
+  <em>
+    Mobile developer specialized in Android, building clean, user-centered products with Kotlin,
+    Jetpack Compose, MVVM, and Clean Architecture, besides improving everyday with Compose Multiplatform (CMP) & Kotlin Multiplatform (KMP).
+    I also work as a fullstack web developer with a strong frontend focus, creating modern web
+    experiences with React, Vue, Laravel, TypeScript, and Node.js.
+  </em>
+</div>
 
-- I'm a professional Mobile (Android specialized, iOS ready) / Web developer for several years, including ethical hacking & linux knowledge.
-- 📫 How to reach me: **nano9gs@hotmail.es** or **fgonzalezserrano10@gmail.com**
+<br>
 
-## CV
+## About Me
 
-- Watch my CV [here](./doc/CV_Fernando_Gonzalez_Serrano_en.pdf)
+Hello and welcome. I am Fernando Gonzalez Serrano, also known as **Feryael Justice**, a developer from Spain focused on building polished digital products across mobile and web.
 
-## Portfolio
+My main focus is **Android development**. I enjoy creating modern, secure, and scalable applications with strong architecture, clean code practices, and careful attention to user experience. I have professional experience contributing to enterprise and banking environments, including Android work delivered in collaboration with NTT Data.
 
-- [Portfolio](https://feryaeljustice.dev)
-- [DJ Portfolio](https://feryaeljustice.github.io/feryael-justice-dj-portfolio/)
+Alongside mobile, I am also a **fullstack web developer with a frontend-oriented profile**. I have worked with Laravel, Vue.js, React, TypeScript, JavaScript, and backend integrations, always aiming for usability, performance, and maintainable code.
 
-## Contact me
+My technical profile is reinforced by formal training in **Artificial Intelligence and Big Data** and a completed specialization in **Cybersecurity in IT Environments**, which gives me a broader perspective on secure software, automation, and the future of intelligent products.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/feryael-justice/)
+I am always interested in building meaningful products, collaborating with solid teams, and taking on challenging opportunities in Android, frontend, and product-focused engineering.
 
-## Experience:
+## Focus
 
-![Exis TI](https://www.exis-ti.com/themes/custom/rhythm_sub/logotipo.png)
-<br/>
-[Exis TI](https://www.exis-ti.com/) (Android Developer)
-<br/>
-**December 2024 - June 2025**
-<br/>
-Computer consultant focused on Android programming.
-- I worked as an Android Developer within the team of NTTDATA, coordinating with QA/UAT, Design, and other teams at the large company on the channel transformation project for the new *Mediolanum Bank* app.
+- Android Developer with Kotlin, Jetpack Compose, MVVM, Hilt, XML, Android SDK, and Clean Architecture
+- Fullstack Web Developer with a strong frontend focus using React, Vue, TypeScript, JavaScript, Laravel, Node.js, and Express
+- Background in cybersecurity, Linux, secure development practices, and technical problem-solving
+- Official academic specialization in Artificial Intelligence and Big Data, plus Cybersecurity in IT Environments
 
-![Homerti](https://www.homerti.com/svg/logo.svg)
-<br/>
-[Homerti](https://www.homerti.com/es) (Web Developer)
-<br/>
-**February 2024 - August 2024**
-<br/>
-Fullstack web developer. Technologies: Laravel & Vue, with Laravel Mix, Webpack, Vite, InertiaJS, Git and Gitkraken. Development of main products of the business, create new pages of intranets and production features, working with git branches in repositiories and in team in a office.
-September 2023 - December 2023 -> Professional training internship contract where I did web maintenance tasks with Laravel and Vue to a main product
+## Socials
 
-![Tec-Soft](https://www.tec-soft.es/wp-content/themes/weyketing/inc/imagenes/tec-soft-logo-header.png)
-<br/>
-[Tec-Soft](https://tec-soft.es/) (Software Developer)
-<br/>
-**May 2022 - July 2022**
-<br/>
-Business desktop software development in Delphi Seattle, where I did teamwork and mantain the main products of the business solving issues in real time.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feryael-justice/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://feryaeljustice.dev)
+[![DJ%20Portfolio](https://img.shields.io/badge/DJ%20Portfolio-EA4C89?style=for-the-badge&logo=musicbrainz&logoColor=white)](https://feryaeljustice.github.io/feryael-justice-dj-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeryaelJustice)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FeryaelJustice)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTyU8XX48ICGslCl_6q9PwA)
 
-## Skills
+## My Tech Stack
 
-### Programming Languages
+### Languages & Core Technologies
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)](#)
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)](#)
-[![iOS](https://img.shields.io/badge/iOS-3DDC84?style=for-the-badge&logo=ios&logoColor=white&labelColor=101010)](#)
-[![Swift](https://img.shields.io/badge/Swift-3DDC84?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)](#)
-</br>
-[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
-[![Typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![Jquery](https://img.shields.io/badge/jquery3%20-%231572B6.svg?&style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)](#)
-</br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)](#)
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google_cloud&logoColor=white&labelColor=101010)](#)
-[![Node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
-</br>
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
-[![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
-[![PHP](https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](#)
+![Kotlin](https://img.shields.io/badge/Kotlin-%239400FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23e86f01.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%23f7c839.svg?style=for-the-badge&logo=python&logoColor=%23316994)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Frameworks
+### Mobile Development
 
-[![NodeJS](https://img.shields.io/badge/nodejs%20-%23DD0031.svg?&style=for-the-badge&logo=nodejs&logoColor=white&labelColor=101010)](#)
-[![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
-[![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
-[![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](#)
-[![Vue](https://img.shields.io/badge/vue%20-%2320232a.svg?&style=for-the-badge&logo=vue&logoColor=%2361DAFB&labelColor=101010)](#)
-[![Laravel](https://img.shields.io/badge/laravel%20-%2320232a.svg?&style=for-the-badge&logo=laravel&logoColor=%2361DAFB&labelColor=101010)](#)
-[![Ionic](https://img.shields.io/badge/ionic%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
-[![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&labelColor=101010)](#)
-[![Expo](https://img.shields.io/badge/expo%20-%2320232a.svg?&style=for-the-badge&logo=expo&logoColor=%2361DAFB&labelColor=101010)](#)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-0F172A?style=for-the-badge&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-34A853?style=for-the-badge&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Retrofit](https://img.shields.io/badge/Retrofit-2C3E50?style=for-the-badge&logo=square&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white)
 
-#### Multimedia and Design
+### Web Development
 
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)](#)
-[![OBS Studio](https://img.shields.io/badge/obs%20studio%20-%2331A8FF.svg?&style=for-the-badge&logo=obs%20studio&logoColor=white&labelColor=101010)](#)
-[![Sony Vegas](https://img.shields.io/badge/sony%20vegas%20-%2331A8FF.svg?&style=for-the-badge&logo=sony%20vegas&logoColor=white&labelColor=101010)](#)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-#### Version Control
+### Tools, Security & AI
 
-[![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#)
-[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=whit&logoColor=white&labelColor=101010)](#)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Artificial%20Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Containerization
+## Education & Certifications
 
-[![Docker](https://img.shields.io/badge/docker%20-%23F05033.svg?&style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](#)
+- Specialization Course in Artificial Intelligence and Big Data, IEDIB, 2025 to 2026
+- Google Academy x Santander course in Artificial Intelligence and Productivity, 2025
+- Jetpack Compose course, Appcademy, 2025
+- Kotlin Multiplatform and Compose Multiplatform course, Appcademy, 2025
+- Higher Technician in Web Application Development, CIFP Pau Casesnoves, 2022 to 2023
+- Specialization in Cybersecurity in IT Environments, CIFP Francesc de Borja Moll, 2021 to 2022
+- Higher Technician in Multiplatform Application Development, CIFP Francesc de Borja Moll, 2018 to 2020
 
-#### DJ and Producer
+## GitHub Stats
 
-<section style="display:flex; flex-direction:row;">
-  <img src="./img/Logo_Fl_Studio.png" alt= "/Logo_Fl_Studio" width="100" height="100">
-  <img src="./img/Logo_VirtualDJ.png" alt= "/Logo_VirtualDJ" width="100" height="100">
-</section>
+<div align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FeryaelJustice&show_icons=true&hide_border=true&theme=radical" alt="FeryaelJustice GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FeryaelJustice&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="FeryaelJustice top languages" />
+</div>
 
-## Find all my links at
+## Contact
 
-[Linktr.ee](https://linktr.ee/feryaeljustice)
-
-[![Youtube](https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTyU8XX48ICGslCl_6q9PwA)
-[![Twitch](https://img.shields.io/badge/twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/feryaeljustice)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FeryaelJustice)
-[![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/feryaeljustice)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/FeryaelJusticeDJ)
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feryael-justice)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<a href="https://github.com/FeryaelJustice">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feryaeljustice)](#)
-
-</a>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/FeryaelJustice.png" alt="TryHackMe">
+- Email: `nano9gs@hotmail.es`
+- Alternative email: `fgonzalezserrano10@gmail.com`
+- CV: [View my CV](./CV_Fernando_Gonzalez_Serrano_en.pdf)
+- 
