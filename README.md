@@ -119,4 +119,4 @@ I am always interested in building meaningful products, collaborating with solid
 
 - Email: `nano9gs@hotmail.es`
 - Alternative email: `fgonzalezserrano10@gmail.com`
-- CV: [View my CV](./CV_Fernando_Gonzalez_Serrano_en.pdf)
+- CV: [View my CV](./doc/CV_Fernando_Gonzalez_Serrano_en.pdf)
