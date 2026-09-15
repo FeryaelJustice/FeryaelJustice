@@ -29,17 +29,18 @@ My technical profile is reinforced by formal training in **Artificial Intelligen
 
 I am always interested in building meaningful products, collaborating with solid teams, and taking on challenging opportunities in Android, frontend, and product-focused engineering.
 
-## Focus
+## Currently Working On & Learning
 
-- Android Developer with Kotlin, Jetpack Compose, MVVM, Hilt, XML, Android SDK, and Clean Architecture
-- Fullstack Web Developer with a strong frontend focus using React, Vue, TypeScript, JavaScript, Laravel, Node.js, and Express
-- Background in cybersecurity, Linux, secure development practices, and technical problem-solving
-- Official academic specialization in Artificial Intelligence and Big Data, plus Cybersecurity in IT Environments
+- **Mobile Engineering:** Expanding with Compose Multiplatform (CMP) and Kotlin Multiplatform (KMP) for shared codebases across Android and iOS.
+- **Modern Android Architecture:** Jetpack Compose, Clean Architecture, reactive StateFlow / Coroutines, and robust automated testing.
+- **Applied AI & Security:** Applying official specializations in AI, Big Data, and IT cybersecurity to modern software architecture.
+- **Fullstack Web:** Building responsive frontend apps and robust backend integrations with TypeScript, React, Vue, Laravel, and Node.js.
 
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feryael-justice/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=google-chrome&logoColor=white)](https://feryaeljustice.dev)
+[![CV](https://img.shields.io/badge/CV%20%2F%20Resume-E53E3E?style=flat&logo=adobeacrobatreader&logoColor=white)](./doc/CV_Fernando_Gonzalez_Serrano_en.pdf)
 [![DJ%20Portfolio](https://img.shields.io/badge/DJ%20Portfolio-EA4C89?style=flat&logo=musicbrainz&logoColor=white)](https://feryaeljustice.github.io/feryael-justice-dj-portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-181717?style=flat&logo=instagram&logoColor=pink)](https://instagram.com/feryaeljustice)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/FeryaelJustice)
@@ -94,6 +95,16 @@ I am always interested in building meaningful products, collaborating with solid
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=flat&logo=hackthebox&logoColor=9FEF00)
 ![Artificial%20Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat&logo=openai&logoColor=white)
 
+## Featured Projects
+
+| Project | Description | Key Stack | Link |
+| :--- | :--- | :--- | :---: |
+| [**CompoundInterestMaster**](https://github.com/FeryaelJustice/CompoundInterestMaster) | Financial calculator app with dynamic interest projections, reactive state management, and interactive charts. | Kotlin, Compose, Clean Arch, Vico Charts, StateFlow, Unit Tests | [Repository](https://github.com/FeryaelJustice/CompoundInterestMaster) |
+| [**SuperNewsApp**](https://github.com/FeryaelJustice/SuperNewsApp) | Modern Android news browser consuming live REST feeds with Material 3 design and offline-ready flow. | Kotlin, Compose, Retrofit, Coroutines, Flow, MVVM | [Repository](https://github.com/FeryaelJustice/SuperNewsApp) |
+| [**signal-vault**](https://github.com/FeryaelJustice/signal-vault) | Zero-knowledge encrypted notes and real-time collaboration rooms across mobile and web platforms. | Spring Boot, WebSockets, Next.js, Compose, SwiftUI | [Repository](https://github.com/FeryaelJustice/signal-vault) |
+| [**MiraiLink**](https://github.com/FeryaelJustice/MiraiLink) | Community social platform for gaming and anime enthusiasts with custom backend microservices. | Jetpack Compose, Clean Arch, Hilt, Node.js, Express, JWT | [Repository](https://github.com/FeryaelJustice/MiraiLink) |
+| [**portfolio-dev-pro**](https://github.com/FeryaelJustice/portfolio-dev-pro) | Personal developer showcase built with fluid animations, high performance, and responsive design. | Astro, React, TypeScript, Tailwind CSS, Material 3 Expressive | [Repository](https://github.com/FeryaelJustice/portfolio-dev-pro) |
+
 ## Education & Certifications
 
 - Specialization Course in Artificial Intelligence and Big Data, IEDIB, 2025 to 2026
@@ -111,7 +122,9 @@ I am always interested in building meaningful products, collaborating with solid
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FeryaelJustice&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="FeryaelJustice top languages" />
 </div>
 
-## Contact
+## Contact & Collaboration
+
+Open to new challenges, collaborative projects, and engineering opportunities in Android, mobile, and web development. Feel free to reach out!
 
 - Email: `nano9gs@hotmail.es`
 - Alternative email: `fgonzalezserrano10@gmail.com`
