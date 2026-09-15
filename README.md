@@ -118,8 +118,8 @@ I am always interested in building meaningful products, collaborating with solid
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FeryaelJustice&show_icons=true&hide_border=true&theme=radical" alt="FeryaelJustice GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FeryaelJustice&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="FeryaelJustice top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FeryaelJustice&show_icons=true&hide_border=true&theme=radical" alt="FeryaelJustice GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FeryaelJustice&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="FeryaelJustice top languages" />
 </div>
 
 ## Contact & Collaboration
